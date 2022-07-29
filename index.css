@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #E5E5E5;
+    font-family: 'Roboto', sans-serif;
+}
+
+div {
+   display: block;
+}
+
+
+.tarjeta-uno {
+    height: 300px;
+    width: 300px;
+    margin: 10px auto;
+    border-radius: 5%;
+    text-align: center;
+    padding: 20px;
+    background-color: #ffffff;
+
+}
+
+.exit {
+color: gray;
+text-align: right;
+font-size: small;
+padding-bottom: 20px;
+cursor: pointer;
+}
+
+p {
+    display: block;
+    font-size: 100%;
+}
+
